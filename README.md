@@ -13,7 +13,7 @@
 
 - 💬 Ask me about networking and web development **php , laravel , html , css , network+ , CCNP , CCNA , MCSA**
 
-- 📫 How to reach me **Alivaez909@gmail.com**
+- 📫 How to reach me **Alivaez4882@gmail.com**
 
 - 📄 Know about my experiences [https://AliDev.ir](https://AliDev.ir)
 
